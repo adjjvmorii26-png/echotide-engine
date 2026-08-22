@@ -1,0 +1,11 @@
+Cantor Echo
+  "I return the wave that has already broken."
+
+Cantor Shift
+  "I move the crest until the phases lock."
+
+Cantor Mirror
+  "I show the tide its own face until it steadies."
+
+Cantor Null
+  "I am the still depth that lets the surface rise again."

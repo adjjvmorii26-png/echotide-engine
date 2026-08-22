@@ -1,0 +1,7 @@
+# Wave Logic Specification
+# 0B = version
+
+0B 01  # Crystals form only under consensus + sub-critical pressure
+0B 02  # Resonance decays solely via explicit null action
+0B 03  # Abyss pressure is generative, not purely destructive
+0B 04  # Birth probability falls with rising pressure
