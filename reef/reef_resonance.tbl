@@ -1,0 +1,5 @@
+# Reef Resonance Table
+# crystal_id | base_resonance | last_tide | links
+0001         | 0.91           | 0         | 0002,echo
+0002         | 0.86           | 0         | 0001,0003,shift
+0003         | 0.69           | 0         | 0002,mirror

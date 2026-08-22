@@ -1,0 +1,9 @@
+# World Seed 03 — Abyss Margin
+{
+  "id": "seed_03",
+  "name": "Abyss Margin",
+  "entropy": 0.51,
+  "initial_resonances": { "echo": 0.59, "shift": 0.55, "mirror": 0.68, "null": 0.78 },
+  "preferred_generator": "delta",
+  "description": "High-pressure edge. Null cantor dominant."
+}

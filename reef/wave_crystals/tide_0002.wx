@@ -1,0 +1,9 @@
+# Wave Crystal Tide 0002
+# Type: Harmonic Return
+# Formed: cycle 19
+
+signature: B1E84D0T
+resonance: 0.86
+content: "Shift cantor aligned phases. Alpha and beta generators held."
+links: [tide_0001, tide_0003, cantor_shift]
+pressure_at_form: 0.64

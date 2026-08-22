@@ -1,0 +1,9 @@
+# World Seed 02 — Active Crest
+{
+  "id": "seed_02",
+  "name": "Active Crest",
+  "entropy": 0.34,
+  "initial_resonances": { "echo": 0.73, "shift": 0.80, "mirror": 0.77, "null": 0.54 },
+  "preferred_generator": "beta",
+  "description": "High flux environment. Tests multi-generator coherence."
+}

@@ -1,0 +1,12 @@
+# Reef Index Map
+# Wave crystal linkages and current pathways
+
+TIDE_0001 ──origin────> TIDE_0002
+TIDE_0002 ──harmonic──> TIDE_0003
+TIDE_0003 ──echo──────> TIDE_0001
+TIDE_0001 ──echo──────> CANTOR_ECHO
+TIDE_0002 ──shift─────> CANTOR_SHIFT
+TIDE_0003 ──mirror────> CANTOR_MIRROR
+REEF_CORE ──null──────> CANTOR_NULL
+
+# Strength: origin > harmonic > echo

@@ -1,0 +1,7 @@
+# Erosion Echo 02
+source_seed: seed_02
+cycle: 72
+final_pressure: 0.98
+residual_resonance: 0.32
+echo: "Phase sink accumulated. Narrative generator re-crystallized as echo."
+reforge_seed_candidate: seed_01

@@ -1,0 +1,9 @@
+# World Seed 01 — Calm Reef
+{
+  "id": "seed_01",
+  "name": "Calm Reef",
+  "entropy": 0.12,
+  "initial_resonances": { "echo": 0.90, "shift": 0.85, "mirror": 0.82, "null": 0.36 },
+  "preferred_generator": "alpha",
+  "description": "Stable tidal basin. Ideal for first crystal formation."
+}

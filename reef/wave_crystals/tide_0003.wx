@@ -1,0 +1,9 @@
+# Wave Crystal Tide 0003
+# Type: Abyss Echo
+# Formed: cycle 44
+
+signature: 0F6A2C9T
+resonance: 0.69
+content: "Abyss pressure peaked; Null cantor dampened. Crystal held."
+links: [tide_0002, cantor_mirror, cantor_null]
+pressure_at_form: 0.79
