@@ -1,0 +1,7 @@
+{
+  "capsule": "echotide-engine-continuity-v1",
+  "boot": "engine_boot.sh",
+  "entrypoint": "crest/crest_flux.js",
+  "domains": ["abyss","choir","crest","horizon","reef"],
+  "invariants": ["boot_exists","entrypoint_exists","all_domains_present","no_empty_domain"]
+}
