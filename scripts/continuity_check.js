@@ -11,6 +11,12 @@ if (missing.length) {
   process.exit(1);
 }
 
+const nonDirectories = manifest.domains.filter(d => !fs.statSync(path.join(root, d)).isDirectory());
+if (nonDirectories.length) {
+  console.error(JSON.stringify({ status: "FAIL", nonDirectories }));
+  process.exit(1);
+}
+
 const emptyDomains = manifest.domains.filter(d => !fs.readdirSync(path.join(root, d)).length);
 if (emptyDomains.length) {
   console.error(JSON.stringify({ status: "FAIL", emptyDomains }));
